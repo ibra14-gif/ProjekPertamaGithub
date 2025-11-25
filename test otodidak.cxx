@@ -174,5 +174,3 @@ int main() {
 	}
 
 
-adwadadadwniawdninawd
-
